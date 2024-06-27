@@ -7,6 +7,9 @@ recommending mitigation strategies. Adept at malware analysis, vulnerability man
 operating procedures for stake holders. Dedicated to enhancing organizational security posture through proactive 
 measures and continuous improvement initiatives. 
 
+## Blog
+https://medium.com/@siva007sathguru
+
 ## 📞 Contact
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
