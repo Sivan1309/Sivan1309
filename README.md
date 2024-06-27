@@ -1,6 +1,4 @@
-# 👋 Sivarama Krishnan Chandran Portfolio!
-
-## About Me
+## 👋 About Me
 Experienced security analyst with a focus on monitoring and securing both cloud and on-prem environments. Skilled in 
 executing vulnerability assessments, ensuring regulatory compliance, and providing expert guidance on defensive 
 security controls. Proficient in administering and building efficient SOC operations for comprehensive threat monitoring 
